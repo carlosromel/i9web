@@ -1,0 +1,1 @@
+alter table Pessoa modify column nome varchar(100) not null

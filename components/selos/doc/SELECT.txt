@@ -1,0 +1,11 @@
+SELECT numero_recibo,
+       data,
+       cobrar_selo,
+       codigo_oficial,
+       valor_emolumento,
+       valor_de_referencia,
+       selo
+  FROM selos_utilizados
+ WHERE tipo = :tipo
+   AND data >= :data_ini
+   AND data <= :data_fim

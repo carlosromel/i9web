@@ -1,0 +1,14 @@
+A funcionalidade define-se em:
+
+Uma interface para o usuário informar o tipo de cartório, e o período de utilização, então 
+O sistema faz uma consulta na base de dados sobre os Selos utilizados para os critérios informados, 
+gerando um arquivo XML ao usuário em layout-preestabelecido.
+
+Considerações;
+
+Tipo de Cartório:
+
+Registro Civil = RCPN 
+Titulos e Documentos = RTD/RCPJ
+
+

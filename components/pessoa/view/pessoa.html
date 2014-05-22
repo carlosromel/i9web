@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <title>Manutenção de pessoas</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link type="style/css" href="componentes/pessoa/view/css/pessoa.css">
+  </head>
+  <body>
+      <form method="post">
+      <input type="hidden" name="idPessoa" value="{idPessoa}">
+      <table border="1">
+          <tr>
+              <th>Nome</th>
+          </tr>
+          <tr>
+              <td><input type="text" name="nome" value="{nome}"></td>
+          </tr>
+          <tr>
+              <td>
+                  <input type="submit" name="acao" value="{acao}">
+                  <!-- BEGIN Consultar -->
+                  <input type="submit" name="acao" value="Consultar">
+                  <!-- END Consultar -->
+                  <!-- BEGIN Remover -->
+                  <input type="submit" name="acao" value="Remover">
+                  <!-- END Remover -->
+              </td>
+          </tr>
+      </table>
+      </form>
+      <!-- BEGIN Consulta -->
+      <table border="1">
+          <tr>
+              <th>Código</th>
+              <th>Nome</th>
+              <th>Ação</th>
+          </tr>
+          <!-- BEGIN Pessoa -->
+          <tr valign="center">
+              <td>{idPessoa}</td>
+              <td>{nome}</td>
+              <td>
+                  <form method="post" action="">
+                      <input type="hidden" name="idPessoa" value="{idPessoa}">
+                      <input type="image" name="acao"      value="Editar"  src="componentes/pessoa/view/img/ico16_editar.png">
+                      <input type="image" name="acao"      value="Remover" src="componentes/pessoa/view/img/ico16_lixeira.gif">
+                  </form>
+              </td>
+          </tr>
+          <!-- END Pessoa -->
+      </table>
+      <!-- END Consulta -->
+  </body>
+</html>

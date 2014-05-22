@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arquivo_selos>
+  <serventia>0515</serventia>
+  <qtde_notas>39</qtde_notas>
+  <notas>
+    <nota num_nota="1130" dt_emissao="03/11/2009" cobrar_selo="N" obs_nota="EQLG01" servico="RCPN">
+      <ato codigo="98" selo="0308000150178" valor_emol="0,00"/>
+    </nota>
+    <nota num_nota="1131" dt_emissao="03/11/2009" cobrar_selo="N" obs_nota="EQLG01" servico="RCPN">
+      <ato codigo="98" selo="0308000150178" valor_emol="0,00"/>
+    </nota>
+    <nota num_nota="1132" dt_emissao="03/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140257" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150178" valor_emol="14,70"/>
+      <ato codigo="67" selo="0008000140257" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150178" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1133" dt_emissao="04/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="103" selo="0308000150179" valor_emol="14,70"/>
+      <ato codigo="67" selo="0008000140257" valor_emol="2,50"/>
+    </nota>
+    <nota num_nota="1134" dt_emissao="05/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140258" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150179" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1135" dt_emissao="05/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140258" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150179" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1136" dt_emissao="05/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140258" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150179" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1137" dt_emissao="05/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140258" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150179" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1138" dt_emissao="05/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="103" selo="0308000150179" valor_emol="14,70"/>
+      <ato codigo="67" selo="0008000140258" valor_emol="2,50"/>
+    </nota>
+    <nota num_nota="1139" dt_emissao="05/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140258" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150179" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1140" dt_emissao="06/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140259" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150180" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1141" dt_emissao="06/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="36" selo="0308000150180" valor_emol="18,20"/>
+      <ato codigo="103" selo="0308000150180" valor_emol="14,70"/>
+      <ato codigo="67" selo="0008000140261" valor_emol="2,50"/>
+    </nota>
+    <nota num_nota="1142" dt_emissao="09/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="103" selo="0308000150180" valor_emol="14,70"/>
+      <ato codigo="67" selo="0008000140263" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150181" valor_emol="14,70"/>
+      <ato codigo="67" selo="0008000140264" valor_emol="2,50"/>
+    </nota>
+    <nota num_nota="1143" dt_emissao="09/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="103" selo="0308000150181" valor_emol="14,70"/>
+      <ato codigo="67" selo="0008000140264" valor_emol="2,50"/>
+      <ato codigo="67" selo="0008000140264" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150181" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1144" dt_emissao="09/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140264" valor_emol="2,50"/>
+      <ato codigo="36" selo="0308000150181" valor_emol="18,20"/>
+      <ato codigo="103" selo="0308000150181" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1145" dt_emissao="10/11/2009" cobrar_selo="N" obs_nota="EQLG01" servico="RCPN">
+      <ato codigo="98" selo="0308000150181" valor_emol="0,00"/>
+    </nota>
+    <nota num_nota="1146" dt_emissao="10/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140264" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150181" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1147" dt_emissao="10/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140264" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150181" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1148" dt_emissao="10/11/2009" cobrar_selo="N" obs_nota="EQLG01" servico="RCPN">
+      <ato codigo="98" selo="0308000150181" valor_emol="0,00"/>
+    </nota>
+    <nota num_nota="1149" dt_emissao="10/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140265" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150181" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1150" dt_emissao="10/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="103" selo="0308000150182" valor_emol="14,70"/>
+      <ato codigo="67" selo="0008000140265" valor_emol="2,50"/>
+    </nota>
+    <nota num_nota="1151" dt_emissao="10/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="103" selo="0308000150182" valor_emol="14,70"/>
+      <ato codigo="67" selo="0008000140265" valor_emol="2,50"/>
+    </nota>
+    <nota num_nota="1152" dt_emissao="10/11/2009" cobrar_selo="N" obs_nota="EQLG06" servico="RCPN">
+      <ato codigo="107" selo="0308000150182" valor_emol="0,00"/>
+      <ato codigo="102" selo="0308000150182" valor_emol="0,00"/>
+    </nota>
+    <nota num_nota="1153" dt_emissao="10/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140265" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150182" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1154" dt_emissao="10/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="109" selo="0008000140265" valor_emol="5,60"/>
+    </nota>
+    <nota num_nota="1155" dt_emissao="11/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="103" selo="0308000150182" valor_emol="14,70"/>
+      <ato codigo="67" selo="0008000140265" valor_emol="2,50"/>
+      <ato codigo="36" selo="0308000150182" valor_emol="18,20"/>
+    </nota>
+    <nota num_nota="1156" dt_emissao="11/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140266" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150182" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1157" dt_emissao="11/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140266" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150182" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1158" dt_emissao="11/11/2009" cobrar_selo="N" obs_nota="EQLG01" servico="RCPN">
+      <ato codigo="98" selo="0308000150182" valor_emol="0,00"/>
+    </nota>
+    <nota num_nota="1159" dt_emissao="12/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140266" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150183" valor_emol="14,70"/>
+      <ato codigo="36" selo="0308000150183" valor_emol="18,20"/>
+    </nota>
+    <nota num_nota="1160" dt_emissao="12/11/2009" cobrar_selo="N" obs_nota="EQLG06" servico="RCPN">
+      <ato codigo="103" selo="0308000150183" valor_emol="0,00"/>
+    </nota>
+    <nota num_nota="1161" dt_emissao="12/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140266" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150183" valor_emol="14,70"/>
+      <ato codigo="102" selo="0308000150183" valor_emol="18,20"/>
+    </nota>
+    <nota num_nota="1162" dt_emissao="12/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="103" selo="0308000150183" valor_emol="14,70"/>
+      <ato codigo="67" selo="0008000140266" valor_emol="2,50"/>
+    </nota>
+    <nota num_nota="1163" dt_emissao="12/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="67" selo="0008000140266" valor_emol="2,50"/>
+      <ato codigo="103" selo="0308000150183" valor_emol="14,70"/>
+    </nota>
+    <nota num_nota="1164" dt_emissao="12/11/2009" cobrar_selo="N" obs_nota="EQLG06" servico="RCPN">
+      <ato codigo="103" selo="0308000150183" valor_emol="0,00"/>
+    </nota>
+    <nota num_nota="1165" dt_emissao="12/11/2009" cobrar_selo="N" obs_nota="EQLG06" servico="RCPN">
+      <ato codigo="103" selo="0308000150183" valor_emol="0,00"/>
+    </nota>
+    <nota num_nota="1166" dt_emissao="12/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="103" selo="0308000150183" valor_emol="14,70"/>
+      <ato codigo="67" selo="0008000140266" valor_emol="2,50"/>
+    </nota>
+    <nota num_nota="1167" dt_emissao="13/11/2009" cobrar_selo="S" servico="RCPN">
+      <ato codigo="105" selo="0308000150184" valor_emol="18,20"/>
+    </nota>
+    <nota num_nota="1168" dt_emissao="15/11/2009" cobrar_selo="N" obs_nota="EQLG01" servico="RCPN">
+      <ato codigo="98" selo="0308000150184" valor_emol="0,00"/>
+    </nota>
+  </notas>
+</arquivo_selos>

@@ -1,0 +1,24 @@
+/*
+ * Não complique, veja http://csseasy.com/
+*/
+body { 
+    display:    block;
+    margin:     10px 10px;
+    margin-top: 10px;
+    width:      800px;
+}
+
+#corpo {
+    background: url(background_3.gif) repeat-y; /* WARNING: IF YOU CHANGE THE COLORS OF THE LAYOUT YOU HAVE TO CHANGE THIS IMAGE! */
+    overflow:   auto; /* USE FIREFOX GUYS! WE ONLY NEED THIS LINE BECAUSE INTERNET EXPLODER ISN'T READING CODE PROPERLY */
+    margin-top: 10px;
+    width:      800px;
+}
+
+#rodape {
+    background-color: #dddddd;
+    font-size:        smaller;
+    margin-top:       10px;
+    text-align:       center;
+    width:            800px;
+}

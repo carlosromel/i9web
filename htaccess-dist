@@ -1,0 +1,20 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    #
+    # A variável RewriteBase contém o caminho relativo do projeto.
+    #
+    # Ex.: /~usuario/i9web/
+    # Ex.: /redesocial/
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    #
+    # Tudo é resolvido pelo controle apropriado.
+    # NOTA: Apesar de não fazer muito sentido, devemos partir da regra mais
+    #       geral para a mais específica (apesar da cláusula L = Last);
+    #
+    RewriteRule ^(.*)$ index.php?$1 [QSA,L]
+    RewriteRule ^.*/js.php(.*)$   js.php?$1    [QSA,L]
+    RewriteRule ^.*/css.php(.*)$  css.php?$1   [QSA,L]
+    RewriteRule ^.*/img.php(.*)$  img.php?$1   [QSA,L]
+</IfModule>
